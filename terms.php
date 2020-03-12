@@ -1,0 +1,85 @@
+<?php include ('header.php') ?>
+
+
+
+
+<section class="terms-section">
+	<div class="container">
+		<div class="row">
+	<div class="col-md-12">
+
+		<div class="section-title">
+                        <h3>Terms and Conditions</h3>
+
+                    </div>
+            <p class="text-justify">WELCOME TO ONLINEMSME.ORG. BY VISITING THIS WEBSITE AND ACCESSING THE INFORMATION, RESOURCES, SERVICE AND TOOLS WE PROVIDE, YOU UNDERSTAND AND AGREE TO ACCEPT AND ADHERE TO THE FOLLOWING TERMS AND CONDITIONS AS STATED IN THIS POLICY (HEREAFTER REFERRED TO AS 'USER AGREEMENT'), ALONG WITH THE TERMS AND CONDITIONS AS STATED IN OUR PRIVACY POLICY (PLEASE REFER TO THE PRIVACY POLICY SECTION BELOW FOR MORE INFORMATION).</p>
+            <p class="text-justify">WE RESERVE THE RIGHT TO CHANGE THIS USER AGREEMENT FROM TIME TO TIME WITHOUT NOTICE. YOU ACKNOWLEDGE AND AGREE THAT IT IS YOUR RESPONSIBILITY TO REVIEW THIS USER AGREEMENT PERIODICALLY TO FAMILIARIZE YOURSELF WITH ANY MODIFICATIONS. YOU’RE CONTINUED USE OF THIS SITE AFTER SUCH MODIFICATIONS WILL CONSTITUTE ACKNOWLEDGMENT AND AGREEMENT OF THE MODIFIED TERMS AND CONDITIONS.</p>
+            <br>
+             
+             	
+             	<div class="head-line">
+             		
+                            <p >1.RESPONSIBLE USE AND CONDUCT</p>
+
+                        </div>
+                    
+            
+            <p class="text-justify">
+              <ul class="text-justify" style="list-style-type: circle;word-spacing: 2px; " >
+                <li style="margin-bottom: 10px;
+  padding:7px;margin-left: 10px;">IN ORDER TO ACCESS OUR RESOURCES, YOU MAY BE REQUIRED TO PROVIDE CERTAIN INFORMATION ABOUT YOURSELF (SUCH AS IDENTIFICATION, EMAIL, PHONE NUMBER, CONTACT DETAILS, ETC.) AS PART OF THE REGISTRATION PROCESS, OR AS PART OF YOUR ABILITY TO USE THE RESOURCES. YOU AGREE THAT ANY INFORMATION YOU PROVIDE WILL ALWAYS BE ACCURATE, CORRECT, AND UP TO DATE.</li>
+                <li  style="margin-bottom: 10px;
+  padding:7px;margin-left: 10px;">ACCESSING (OR ATTEMPTING TO ACCESS) ANY OF OUR RESOURCES BY ANY MEANS OTHER THAN THROUGH THE MEANS WE PROVIDE, IS STRICTLY PROHIBITED. YOU SPECIFICALLY AGREE NOT TO ACCESS (OR ATTEMPT TO ACCESS) ANY OF OUR RESOURCES THROUGH ANY AUTOMATED, UNETHICAL OR UNCONVENTIONAL MEANS.</li>
+                <li style="margin-bottom: 10px;
+  padding:7px;margin-left: 10px;">ENGAGING IN ANY ACTIVITY THAT DISRUPTS OR INTERFERES WITH OUR RESOURCES, INCLUDING THE SERVERS AND/OR NETWORKS TO WHICH OUR RESOURCES ARE LOCATED OR CONNECTED, IS STRICTLY PROHIBITED.</li>
+                <li style="margin-bottom: 10px;
+  padding:7px;margin-left: 10px;">ATTEMPTING TO COPY, DUPLICATE OR REPRODUCE OUR RESOURCES IS STRICTLY PROHIBITED.</li>
+                <li style="margin-bottom: 10px;
+  padding:7px;margin-left: 10px;">YOU ARE SOLELY RESPONSIBLE ANY CONSEQUENCES, LOSSES, OR DAMAGES THAT WE MAY DIRECTLY OR INDIRECTLY INCUR OR SUFFER DUE TO ANY UNAUTHORIZED ACTIVITIES CONDUCTED BY YOU, AS EXPLAINED ABOVE, AND MAY INCUR CRIMINAL OR CIVIL LIABILITY.</li>
+              </ul>
+            </p>
+        
+            <br>
+            	<div class="head-line">
+             		
+                            <p >2. PRIVACY</p>
+                             </div>
+                            	<p class="text-justify mr-20">YOUR PRIVACY IS VERY IMPORTANT TO US, WHICH IS WHY WE'VE CREATED A SEPARATE PRIVACY POLICY IN ORDER TO EXPLAIN IN DETAIL HOW WE COLLECT, MANAGE, PROCESS, SECURE, AND STORE YOUR PRIVATE INFORMATION. OUR PRIVACY POLICY IS INCLUDED UNDER THE SCOPE OF THIS USER AGREEMENT.</p>
+                       
+                    <div class="head-line">
+             		
+                            <p >3. LIMITATION OF LIABILITY</p>
+                             </div>
+                              <p class="text-justify">BY USING THIS WEBSITE YOU EXPRESSLY UNDERSTAND AND AGREE THAT ANY CLAIM AGAINST US SHALL BE LIMITED TO THE AMOUNT YOU PAID, IF ANY, FOR USE OF SERVICES. WWW.ONLINEMSME.ORG WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY LOSS OR DAMAGES WHICH MAY BE INCURRED BY YOU AS A RESULT OF USING OUR RESOURCES, OR AS A RESULT OF ANY CHANGES, DATA LOSS OR CORRUPTION, CANCELLATION, LOSS OF ACCESS, OR DOWNTIME TO THE FULL EXTENT THAT APPLICABLE LIMITATION OF LIABILITY LAWS APPLY.</p>
+                              <div class="head-line">
+             		
+                            <p >4. TERMINATION OF USE</p>
+                             </div>
+                             <p class="text-justify mt-20px">YOU AGREE THAT WE MAY, AT OUR SOLE DISCRETION, SUSPEND OR TERMINATE YOUR ACCESS TO ALL OR PART OF OUR WEBSITE AND RESOURCES WITH OR WITHOUT NOTICE AND FOR ANY REASON, INCLUDING, WITHOUT LIMITATION, BREACH OF THIS USER AGREEMENT. ANY SUSPECTED ILLEGAL, FRAUDULENT OR ABUSIVE ACTIVITY MAY BE GROUNDS FOR TERMINATING YOUR RELATIONSHIP AND MAY BE REFERRED TO APPROPRIATE LAW ENFORCEMENT AUTHORITIES. UPON SUSPENSION OR TERMINATION, YOUR RIGHT TO USE THE RESOURCES WE PROVIDE WILL IMMEDIATELY CEASE, AND WE RESERVE THE RIGHT TO REMOVE OR DELETE ANY INFORMATION THAT YOU MAY HAVE ON FILE WITH US, INCLUDING ANY ACCOUNT OR LOGIN INFORMATION.</p>
+            
+                             <div class="head-line">
+             		
+                            <p >5. GOVERNING LAW</p>
+                             </div>
+                             <p class="text-justify mt-20px">BY ACCESSING OUR WEBSITE, YOU AGREE THAT THE STATUTES AND LAWS OF INDIA WILL APPLY TO ALL MATTERS RELATING TO THE USE OF THIS WEBSITE.</p>
+
+                             <div class="head-line">
+             		
+                            <p >6. CANCELLATION AND REFUND</p>
+                             </div>
+                              <p class="text-justify mt-20px">CANCELLATION OF APPLICATION IS NOT POSSIBLE ONCE THE PAYMENT HAS BEEN MADE. NO REFUNDS WILL BE GIVEN EXCEPT IN THE EVENT OF CANCELLATION OR NON-PERFORMANCE OF SERVICE BY WWW.ONLINEMSME.ORG.</p>
+
+                             <div class="head-line">
+             		
+                            <p >7. GUARANTEE</p>
+                             </div>
+                             <p class="text-justify mt-20px">UNLESS OTHERWISE EXPRESSED, WWW.ONLINEMSME.ORG EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.</p>
+                             
+             		
+                           
+	</div><!--col-md-12-->
+		</div><!--row-->
+	</div><!--container-->
+</section>
+
+<?php include('footer.php') ?>
